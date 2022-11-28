@@ -17,6 +17,7 @@ public class java17 {
 
         }
     System.out.println("3e ve 4e bölünenlerin ortalaması: " + top/count);
+    input.close();
     }
 }
 
